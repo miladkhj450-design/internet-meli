@@ -1,0 +1,5 @@
+https://hanime.tv/apple-touch-icon-precomposed.png
+https://hanime.tv/apple-touch-icon.png
+https://hanime.tv/favicon.ico
+https://hanime.tv/favicon.png
+https://hanime-cdn.com/images/bg3d-1900.930.min.jpg
